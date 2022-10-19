@@ -12,7 +12,7 @@ for(let i=0; i<=num; i++){
    } 
 } 
 
-if(fact >= 2){
+if(fact == 2){
    console.log("Yes"); 
 } 
 else{
