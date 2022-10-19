@@ -10,7 +10,7 @@ for(let i=str.length-1; i>=0; i--){
     revStr = revStr + i; 
 } 
 
-if(revStr = str){
+if(revStr == str){
    console.log("Yes"); 
 } 
 else{
